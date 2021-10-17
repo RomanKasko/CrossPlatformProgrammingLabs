@@ -1,0 +1,11 @@
+ManchesterCity,1999,Manchester
+Dynamo,1988,Kyiv
+Dynamo,1999,Krakiv
+Shaktar,2000,Donetsk
+Footballia,2000,Lviv
+Ball,1990,Lviv
+Ballia,2000,Lviv
+Foot,1990,Odesa
+Manchester,2000,Odesa
+Rochester,1990,Kyiv
+FainaUkraina,2000,Kyiv
