@@ -1,0 +1,5 @@
+Roman,Vasyliovych,Kasko,kasko@gmail.com,[39 Clues;Rick Riordan;2008;08/11/2021#Bot;Max Kidruk;2012;09/09/2021#Inferno;Dan Brown;2013;01/11/2021]
+Client,Clientovych,Customer,client@gmail.com,[Inferno;Dan Brown;2013;10/11/2021]
+Reader,Bookovych,Romeo,reader@gmail.com,[Hourglasses;Natalie Shcherba;2011;10/11/2021]
+Romeo,Juliettovych,Montetti,romeo@gmail.com,[Harry Potter;J. K. Rowling;2007;01/11/2021#The Little Prince;Antoine de Saint-Exupéry;1943;13/11/2021]
+Julietta,Romeochna,Cappuletti,julie@gmail.com,[Shadow of the wind;Carlos Ruis Safon;2001;13/11/2021#Origin;Dan Brown;2017;27/11/2021]
